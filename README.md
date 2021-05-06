@@ -19,8 +19,8 @@
 ## Live Projects
 
 <a href="https://soundsofserenity.netlify.app/" target="_blank">Sounds of Serenity (Beta)</a> <br>
-<a href="https://movie-app-243e1.web.app/" target="_blank">M[]vieData</a><br>
-<a href="https://youtube-desktop-clone.netlify.app/" target="_blank">Youtube-Desktop-Clone (Vanilla Js)</a><br>
+<a href="https://movie-app-243e1.web.app/" target="_blank">M[]vieData (React)</a><br>
+<a href="https://youtube-desktop-clone.netlify.app/" target="_blank">Youtube-Desktop-Clone (Vanilla JS)</a><br>
 
 
 
