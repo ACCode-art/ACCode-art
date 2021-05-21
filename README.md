@@ -1,4 +1,4 @@
-# introductions 😊
+# Hello, welcome to my Github profile 😊
 
 - 👋 Hi, Adam a developer from the UK
 - 👀 I’m interested in learning as much as possible about programming!
