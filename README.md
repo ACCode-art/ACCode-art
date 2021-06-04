@@ -2,7 +2,7 @@
 
 - 👋 Hi, Adam a developer from the UK
 - 👀 I’m interested in learning as much as possible about programming!
-- 🌱 I’m currently learning Node.js, Svelete, Vue.js, MongoDB.
+- 🌱 I’m currently learning C++.
 - 👌 2021 goal is to make my Sounds of Serenity app available for all to use and to be employed witihin the industry! 
 - :collision: Currently working on Sounds of Serenity V2! 
 - :musical_note: I have built a community on youtube for those interested in relatioship between music and meditation. <a href="https://www.youtube.com/channel/UC1YkLNMx1vKGDJSX3_ljsEQ" target="_blank">click here</a>
