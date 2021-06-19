@@ -6,7 +6,7 @@
 - :fire: Currently Learning OOP and Typescript 
 - :collision: Currently working on Sounds of Serenity V2 (app for meditation)! 
 - :collision: Currently creating a tracker app for a trading card game! 
-- :musical_note: I have built a community on youtube for those interested in relatioship between music and meditation. <a href="https://www.youtube.com/channel/UC1YkLNMx1vKGDJSX3_ljsEQ" target="_blank">click here</a>
+- :musical_note: I have built a community on youtube for those interested in relationship between music and meditation. <a href="https://www.youtube.com/channel/UC1YkLNMx1vKGDJSX3_ljsEQ" target="_blank">click here</a>
 
 ##  <a href="https://www.accode.co.uk/" target="_blank">My Portfolio</a> 
 
