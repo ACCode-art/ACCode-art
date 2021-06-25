@@ -12,10 +12,11 @@
 
 ## Live Projects
   
-<a href="https://soundsofserenity.netlify.app/" target="_blank">Sounds of Serenity (Beta)</a> <br>
+<a href="https://soundsofserenity.netlify.app/" target="_blank">Sounds of Serenity</a> <br>
 <a href="https://movie-app-243e1.web.app/" target="_blank">M[]vieData (React)</a><br>
-<a href="https://youtube-desktop-clone.netlify.app/" target="_blank">Youtube-Desktop-Clone (Vanilla JS)</a><br>
-<a href="https://gothamnft.netlify.app/" target="_blank">Gotham NFT (Vanilla JS)</a><br>
+<a href="https://youtube-desktop-clone.netlify.app/" target="_blank">Youtube-Desktop-Clone</a><br>
+<a href="https://abstractartio.netlify.app/" target="_blank">abstractart.io</a><br>
+<a href="https://minimilistinvoice.netlify.app/" target="_blank">Minimilist Invoice</a><br>
 
 ## Langauges & Tools
 
