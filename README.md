@@ -1,22 +1,6 @@
 # Hello, welcome to my Github profile 😊
 
 - 👋 Hi, Adam a developer from the UK
-- 👀 I’m interested in learning as much as possible about programming!
-- 👌 2021 goal is to make my Sounds of Serenity app available for all to use and to be employed witihin the industry! 
-- :fire: Currently Learning Python
-- :collision: Currently working on Sounds of Serenity V2 (app for meditation)! 
-- :collision: Currently creating a tracker app for a trading card game! 
-- :musical_note: I have built a community on youtube for those interested in relationship between music and meditation. <a href="https://www.youtube.com/channel/UC1YkLNMx1vKGDJSX3_ljsEQ" target="_blank">click here</a>
-
-##  <a href="https://www.accode.co.uk/" target="_blank">My Portfolio</a> 
-
-## Live Projects
-  
-<a href="https://soundsofserenity.netlify.app/" target="_blank">Sounds of Serenity</a> <br>
-<a href="https://movie-app-243e1.web.app/" target="_blank">M[]vieData (React)</a><br>
-<a href="https://youtube-desktop-clone.netlify.app/" target="_blank">Youtube-Desktop-Clone</a><br>
-<a href="https://abstractartio.netlify.app/" target="_blank">abstractart.io</a><br>
-<a href="https://minimilistinvoice.netlify.app/" target="_blank">Minimilist Invoice</a><br>
 
 ## Langauges & Tools
 
